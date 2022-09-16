@@ -34,8 +34,11 @@ The analysis of the election show that:
  
  This script is currently set to just analyze the election data spreadsheet we were provided with hoever it could be easily changed to be able to read any election data in the same format. 
  
+ This is an image of the code used at the start of the script to identify where we are getting our data. This could be modified so it can work for many different election result files.
  
+ <img width="688" alt="Election Audit Input Code" src="https://user-images.githubusercontent.com/111392120/190726092-d4054078-a9f8-4c14-938a-3901b59bb9be.png">
 
- 
+ Another thing that would need to be done for other electorial boards to use this script would be to create unique file names so they dont accidently alter other boards data and files. 
  ## Challenge Summary
  
+ This was pretty fun even though I am slighty behind the class in my work. It was pretty easy to create the lines needed for the challenge and if there was anything I was unsure about I could just refer back to our original PyPoll.py worksheet and find the answer. Overall an enjoyable project. 
